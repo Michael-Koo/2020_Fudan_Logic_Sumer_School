@@ -1,0 +1,41 @@
+15:34
+jc
+前面的论证有用到aleph_2的正则性吗?
+jc
+好的 谢谢
+15:41
+jc
+能找到极大反链是因为Zorn's lemma,请问在没有AC的情况下这个引理还成立吗
+15:54
+jc
+一个小观察: 如果M中只有一个强不可达基数kappa, 我们力迫使M[G]满足, 2^\omega = kappa, 这样kappa在M[G]中就不再是强不可达基数了. 这样子也就有了一个con(ZFC+只存在一个不可达基数) -> con(ZFC+不存在不可达基数)的证明
+寇亮
+明天还有吗？
+杨睿之
+直接取V_kappa（kappa是最小的强不可达）？
+jc
+对, 但就只是提供另外一个思路
+jc
+我刚想问一下接下来会有其他预备知识的讨论班吗
+jc
+好的, 谢谢
+寇亮
+可怕
+jc
+我可以讲generic ultrapower和supercompact的magidor characterization
+Hao
+好啊
+Hao
+请问您怎么称呼？
+jc
+我叫陈泽晟, 我的老师同学也叫我jason
+Hao
+在哪个大学？
+jc
+UCI, Pen Maddy和Toby Meadows的博士学生
+杨睿之
+还是这个会议号？张体云开一下？
+Hao
+好的
+张体云
+我等会看下能不能改时间
